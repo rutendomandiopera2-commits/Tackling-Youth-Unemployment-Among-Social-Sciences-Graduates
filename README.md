@@ -1,2 +1,1 @@
-# Tackling-Youth-Unemployment-Among-Social-Sciences-Graduates
-Every year, thousands of young people graduate with degrees in Social Sciences fields. Despite their education and potential, many face unemployment or underemployment.  This website raises awareness about the challenges faced by Social Sciences graduates and promotes practical solutions that can improve employment opportunities
+Graduate Futures is a social impact initiative created to explore, amplify and support solutions to youth unemployment among social sciences graduates. The initiative seeks to bridge the gap between academic knowledge and meaningful career opportunities by connecting graduates, employers, communities and social innovation spaces.
