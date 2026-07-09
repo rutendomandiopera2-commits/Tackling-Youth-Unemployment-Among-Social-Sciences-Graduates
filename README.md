@@ -1,6 +1,6 @@
 Graduate Futures: Tackling Youth Unemployment Among Social Sciences Graduates
 
-A Social Impact Initiative by Social Scientist Sanctuary
+A Social Impact Initiative by The Social Scientist Sanctuary
 
 
 About the Initiative
